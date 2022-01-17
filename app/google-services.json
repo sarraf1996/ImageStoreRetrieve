@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663084913000",
+    "project_id": "imagestoreretrieve-6594a",
+    "storage_bucket": "imagestoreretrieve-6594a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663084913000:android:bc330a89a6ac85128446dd",
+        "android_client_info": {
+          "package_name": "com.example.imagestoreretrieve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663084913000-5qocfus9ni0sc0nt8vdkm2s0sc7to6eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrUU6wpUb8jcHD7M9vVm-QFQ0sMd-GdXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663084913000-5qocfus9ni0sc0nt8vdkm2s0sc7to6eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
